@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "Study materials/C Programming"
+		},
+		{
+			"path": "Study materials/C++"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"conio.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}
